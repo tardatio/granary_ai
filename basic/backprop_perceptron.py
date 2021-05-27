@@ -1,5 +1,4 @@
 
-
 def forward(w,s,b,y):
     Yhat= w * s + b
     output = (Yhat-y)**2

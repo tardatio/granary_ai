@@ -1,1 +1,1 @@
-# granary_ai
+Granary for AI
