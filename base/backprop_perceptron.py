@@ -19,7 +19,7 @@ def main():
     learning = 1e-1
     epoch = 3
 
-    for i in range(epoch):
+    for i in range(epoch+1):
 
         output, Yhat = forward(w,x,b,y)
         print("-----------------------------------------------------------------------------")
